@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://xhon.com/gridea.github.io/</id>
+    <id>https://xhon.com/gridea.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-07-30T03:04:40.189Z</updated>
+    <updated>2020-07-30T03:05:29.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://xhon.com/gridea.github.io/"/>
-    <link rel="self" href="https://https://xhon.com/gridea.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xhon.com/gridea.github.io/"/>
+    <link rel="self" href="https://xhon.com/gridea.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://xhon.com/gridea.github.io/images/avatar.png</logo>
-    <icon>https://https://xhon.com/gridea.github.io/favicon.ico</icon>
+    <logo>https://xhon.com/gridea.github.io/images/avatar.png</logo>
+    <icon>https://xhon.com/gridea.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://https://xhon.com/gridea.github.io/post/test/</id>
-        <link href="https://https://xhon.com/gridea.github.io/post/test/">
+        <id>https://xhon.com/gridea.github.io/post/test/</id>
+        <link href="https://xhon.com/gridea.github.io/post/test/">
         </link>
         <updated>2020-07-30T02:43:38.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://https://xhon.com/gridea.github.io/post/about/</id>
-        <link href="https://https://xhon.com/gridea.github.io/post/about/">
+        <id>https://xhon.com/gridea.github.io/post/about/</id>
+        <link href="https://xhon.com/gridea.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -36,8 +36,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://xhon.com/gridea.github.io/post/hello-gridea/</id>
-        <link href="https://https://xhon.com/gridea.github.io/post/hello-gridea/">
+        <id>https://xhon.com/gridea.github.io/post/hello-gridea/</id>
+        <link href="https://xhon.com/gridea.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
