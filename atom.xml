@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xhon.com</id>
-    <title>Gridea</title>
-    <updated>2020-09-30T07:54:02.325Z</updated>
+    <title>亲爱的人</title>
+    <updated>2020-09-30T08:09:07.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xhon.com"/>
     <link rel="self" href="https://xhon.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>真是一个</subtitle>
     <logo>https://xhon.com/images/avatar.png</logo>
     <icon>https://xhon.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 亲爱的人</rights>
     <entry>
         <title type="html"><![CDATA[一个故事，教你一生不再生气]]></title>
         <id>https://xhon.com/post/yi-ge-gu-shi-jiao-ni-yi-sheng-bu-zai-sheng-qi/</id>
