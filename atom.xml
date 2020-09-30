@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.xhon.com</id>
+    <id>https://forestbird.github.io/blog/</id>
     <title>亲爱的人</title>
-    <updated>2020-09-30T08:12:43.139Z</updated>
+    <updated>2020-09-30T08:14:49.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.xhon.com"/>
-    <link rel="self" href="https://www.xhon.com/atom.xml"/>
+    <link rel="alternate" href="https://forestbird.github.io/blog/"/>
+    <link rel="self" href="https://forestbird.github.io/blog/atom.xml"/>
     <subtitle>真是一个</subtitle>
-    <logo>https://www.xhon.com/images/avatar.png</logo>
-    <icon>https://www.xhon.com/favicon.ico</icon>
+    <logo>https://forestbird.github.io/blog/images/avatar.png</logo>
+    <icon>https://forestbird.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, 亲爱的人</rights>
     <entry>
         <title type="html"><![CDATA[test111]]></title>
-        <id>https://www.xhon.com/post/test111/</id>
-        <link href="https://www.xhon.com/post/test111/">
+        <id>https://forestbird.github.io/blog/post/test111/</id>
+        <link href="https://forestbird.github.io/blog/post/test111/">
         </link>
         <updated>2020-09-30T08:10:26.000Z</updated>
         <content type="html"><![CDATA[<p>test111<br>
-<img src="https://www.xhon.com/post-images/1601453433449.jpg" alt="" loading="lazy"></p>
+<img src="https://forestbird.github.io/blog//post-images/1601453433449.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一个故事，教你一生不再生气]]></title>
-        <id>https://www.xhon.com/post/yi-ge-gu-shi-jiao-ni-yi-sheng-bu-zai-sheng-qi/</id>
-        <link href="https://www.xhon.com/post/yi-ge-gu-shi-jiao-ni-yi-sheng-bu-zai-sheng-qi/">
+        <id>https://forestbird.github.io/blog/post/yi-ge-gu-shi-jiao-ni-yi-sheng-bu-zai-sheng-qi/</id>
+        <link href="https://forestbird.github.io/blog/post/yi-ge-gu-shi-jiao-ni-yi-sheng-bu-zai-sheng-qi/">
         </link>
         <updated>2020-09-30T07:03:34.000Z</updated>
         <content type="html"><![CDATA[<p>不争就是慈悲；不辩就是智慧；不闻就是清净；不看就是自在。</p>
@@ -79,8 +79,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://www.xhon.com/post/test/</id>
-        <link href="https://www.xhon.com/post/test/">
+        <id>https://forestbird.github.io/blog/post/test/</id>
+        <link href="https://forestbird.github.io/blog/post/test/">
         </link>
         <updated>2020-07-30T02:43:38.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -88,8 +88,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://www.xhon.com/post/about/</id>
-        <link href="https://www.xhon.com/post/about/">
+        <id>https://forestbird.github.io/blog/post/about/</id>
+        <link href="https://forestbird.github.io/blog/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -103,8 +103,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.xhon.com/post/hello-gridea/</id>
-        <link href="https://www.xhon.com/post/hello-gridea/">
+        <id>https://forestbird.github.io/blog/post/hello-gridea/</id>
+        <link href="https://forestbird.github.io/blog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
